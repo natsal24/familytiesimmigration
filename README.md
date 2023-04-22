@@ -1,3 +1,1 @@
-.ve-header "Puerto Rican Immigration to the US" default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/04/EB1911_Plate_X._v24_pg.511Fig1.jpg sticky 
-
-Immigration is a topic that has come up many times in Family Ties interviews. I believe it is a topic that affects numerous people both directly and indirectly. 
+Immigration is a topic that has come up many times in Family Ties interviews. I consider it a topic that impacts numerous people both directly and indirectly. Despite the reasons that one choses to or is forced to immigrate it naturally alters the trajectory of a family history, for better or even for worse. In the stories that have been shared with me where a family member immigrates, that person  

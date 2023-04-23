@@ -16,7 +16,5 @@ Immigration is a topic that has come up many times in our Family Ties interviews
 
 .ve-media default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/04/Dorothy-Dip.jpg height=500px width=500px right caption="Dorothy Dip in traditional Cambodian clothing"
 
-All too frequently people are forced to immigrate due to violence occuring in their home countries. The decision to leave is usually met with desperation and necessity. This was the case with Tifanny Keo's mother, Dorothy Dip. Dorothy is a survivor of the ==Cambidian Genocide=={Q2885072} (1975-1979). 
+All too frequently people are forced to immigrate due to violence occuring in their home countries. The decision to leave is usually met with desperation and necessity. This was the case with Tifanny Keo's mother, Dorothy Dip. Dorothy is a survivor of the ==Cambidian Genocide=={Q2885072} (1975-1979). The genocide began when she was just a girl, but everything Dorothy knew as her home, would quickly begin to change. Dorothy was a witness to many murders including the murder of her own brother. 
 
-
-Q2885072

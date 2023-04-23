@@ -13,9 +13,7 @@ Immigration is a topic that has come up many times in Family Ties interviews. I 
 #### **Immigration to Survive **
 
 
-
 .ve-media default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/04/Dorothy-Dip.jpg
 
-
-More often than wanted people are forced to immigrate due to violence that they are living through in their home countries. The decision to immigrate is usually met with desperation as was the case with Tifanny Keo's mother, Dorothy Dip. 
+All too often people are forced to immigrate due to violence that they are living through in their home countries. The decision to immigrate is usually met with desperation as was the case with Tifanny Keo's mother, Dorothy Dip. 
 

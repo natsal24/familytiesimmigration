@@ -20,3 +20,11 @@ All too frequently people are forced to immigrate due to violence occuring in th
 Layla Ahmed's grandparents have a similar story of immigrating to survive. As newlyweds Layla's grandparents, Mohammed and Shirin Talukder, had to face the unimaginable.
 
 
+.ve-media
+
+    - default:https%3A//uploads.knightlab.com/storymapjs/8ddf6f9575ec09f5d6730aaf209997cb/bangladesh-war-and-immigration/_images/BangladeshWarandImmigrationCollection_004.jpeg height=450px width=500px right
+    -  default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/04/Mohammad-Shirin.jpg height=450px width=500px right
+    
+
+
+

@@ -23,4 +23,4 @@ Layla Ahmed's grandparents have a similar story of immigrating to survive. Only 
     - default:https%3A//uploads.knightlab.com/storymapjs/8ddf6f9575ec09f5d6730aaf209997cb/bangladesh-war-and-immigration/_images/BangladeshWarandImmigrationCollection_004.jpeg
     - default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/04/Mohammad-Shirin.jpg
     
-.ve-media wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
+.ve-media wc:https://raicesculturalcenter.org/wp-content/uploads/2023/01/Torres-Ortiz-Family-1-scaled.jpeg

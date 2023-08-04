@@ -1,4 +1,4 @@
-.ve-header "Family Ties: Excerpts " wc:Raffaello_Gambogi_-_The_Immigrants_(1894).jpg sticky
+.ve-header "Family Ties: Excerpts " wc:Italian Immigrants 1957.jpg sticky
 
 <style>
     #juncture h1 { color: #124559; }

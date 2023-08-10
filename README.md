@@ -12,9 +12,8 @@ All too frequently people are forced to immigrate due to violence occuring in th
 Layla Ahmed's grandparents, Mohammed and Shirin Talukder, have a similar story of immigrating to survive. In 1971, only a few weeks after getting married Layla's grandparents had to face the unimaginable. Mohammed was working as a doctor in Koitok Hospital and as was customary of the time Shirin went home to visit her family after the wedding. While the newlyweds were separated the ==Bagladesh Liberation War=={Q371394} broke out and the couple was unaware if the other was dead or alive. Each of them had interesting experiences during the war. Shirin and her family had to flee their home because Shirin's father had been the former capitan of the West Pakistan Army and they feared the army would be looking for him. And back at the hospital Mohammed was secretly sending supplies to the Freedom Fighters behind the backs of the West Pakistan Army which had taken over the hospital as their own camp. Shirin and Mohammed were reunited and once the war was over they decided to establish themselves in another country while Bangladesh got back on it's feet. 
     
 .ve-media compare right caption="Mohammed and Shirin posing for a picture"
-    - default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/08/3.jpg
-    - default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/08/2.jpg
-   
+    - default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/08/MohammedShirin-present-day-edited.jpg
+    - default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/08/MohammedShirin-80s-edited.jpg
  
    
     

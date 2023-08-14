@@ -1,7 +1,7 @@
 .ve-header "Family Ties: Immigration" background=#124559
 
 Immigration is a topic that has presented itself numerous times in our Family Ties interviews. I consider it a topic that impacts various people both directly and indirectly. Despite the reasons that one choses to or is forced to immigrate it naturally alters the trajectory of a family history, for better or even for worse.  Here I have complied extracts of interviews where the immigration of a family member or two, is an important factor of the story being shared with us.
-{style="border:1px solid black; padding:10px"}
+{style="border:3.5px solid black; padding:10px"}
 
 #### **Immigration to Survive **
 
@@ -20,8 +20,8 @@ They first moved to Lagos, Nigeria where Mohammad was able to continue his medic
 #### **Immigrating to the Homeland **
 
 Last year Claudia Portillo recounted the fascinating story of her great-grandfather Roberto Wolff. Roberto was from a Jewish family that immigrated to El Salvador from Paris, France at the end of the 19th century. The family established themselves in El Salvador by opening a store. One of the family's housemaids became pregnant with Roberto's child and to avoid a scandal he was sent away to France. A country in which his family was from, but one that was completely unfamiliar and foreign to him. Unfortunately Roberto did not have contact with the daughter he left behind until the 1960's when he tried to contact her via letter. The letter he sent was really a shot in the dark as the rest of his family had immgrated back to France some years after he was sent away. Somehow the letter made it into Claudia's grandmother's hands which led to some back and forth communication with her estranged father. 
-.ve-media default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/08/Wolff-Army-scaled.jpg left height=450px width=350px caption="Roberto Wolff in the army"
+.ve-media default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/08/Wolff-Army-scaled.jpg left height=460px width=385px caption="Roberto Wolff in the army"
 
 Many years later Claudia inhereted the original letter and learned some harrowing information about her family in France. Such as Roberto's participation as a soldier in both of the World Wars and that her great-uncle Mauricio and his family had been victims of the Holocaust. It is impossible to know what could have been of the family had they stayed in El Salvador but one could imagine that they might have avoided such tragedy. This story of immigration is special because Roberto was forced to immigrate to France due to his family's fear of societal judgement. This in turn not only affected Roberto and his family but also Claudia's grandmother, Rosa, and her life. Though this story is a special case we can also reflect on the fact that often times immigration is forced upon us by others and not a decision we can always make for ourselves.      
 
-Immigration is such a universal but unqiue experience. It affects not only the idvidual that takes on the journey but also their family and future generation. Often times immgration is a desparate last option 
+Immigration is such a universal but unqiue experience. Often times immgration is a desparate last option that many people around the world are faced with daily. The journey doesn't always end as one intends it to and that can be something positive or negative. As desendants of immigrants it is important that we keep the tradition of storytelling alive. Even if immigration is (un tema cotidiano) As descendants of immigrants we should always share the stories of our family members that had to brave great unknowns. Because it's not only their story but ours as well and the more we share with each other the more we learn about ourselves and who we are in this world.  

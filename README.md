@@ -2,7 +2,8 @@
 
 
 Immigration is a topic that has presented itself various times in our Family Ties interviews. I consider it a topic that impacts numerous people both directly and indirectly. Despite the reasons that one choses to or is forced to immigrate it naturally alters the trajectory of a family history, for better or even for worse.  Here I have complied extracts of interviews where the immigration of a family member or two, is an important factor of the story being shared with us.
-{style="border: 10px solid black; padding: 5px"}
+
+---
 
 .ve-media default:https%3A//raicesculturalcenter.org/wp-content/uploads/2023/08/Dorothy-Dip.jpg left height=530px width=350px caption="Dorothy Dip in traditional clothing"
 

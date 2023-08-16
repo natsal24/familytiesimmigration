@@ -34,4 +34,4 @@ This story of immigration is different because Roberto was forced to immigrate t
 Immigration is such a universal but unqiue experience. The decision to immigrate is often a desperate last option that many people around the world are faced with daily. The journey doesn't always end as one intends it to and that can be something good or bad. As desendants of immigrants it is important that we keep the tradition of storytelling alive. Even if immigration is an everyday topic we should always share the stories of our family members that had to brave great unknowns. Because it's not only their story but ours as well and the more we share with each other the more we learn about ourselves and who we are in this world.  
 
 _Interested in hearing more stories from our Family Ties: Stories That Inspire? Take a look at our oral history archive:_
-https://raicesculturalcenter.org/digital-project/familyties/
+[https://raicesculturalcenter.org/digital-project/familyties/](https://https://raicesculturalcenter.org/digital-project/familyties/)
